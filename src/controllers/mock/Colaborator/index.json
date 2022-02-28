@@ -80,6 +80,69 @@
       "branch": "Farmácia Pedido Pago",
       "role": "Analista",
       "status": "inactive"
+    },
+    {
+      "agent_id": 10,
+      "name": "Silvio Pereira Nunes",
+      "image": "https://picsum.photos/200",
+      "department": "SAC",
+      "branch": "Farmácia Pedido Pago",
+      "role": "Analista",
+      "status": "inactive"
+    },
+    {
+      "agent_id": 11,
+      "name": "Luiz Ferreira Araujo",
+      "image": "https://picsum.photos/200",
+      "department": "Comercial",
+      "branch": "Farmácia Pedido Pago",
+      "role": "Analista",
+      "status": "inactive"
+    },
+    {
+      "agent_id": 12,
+      "name": "Ana Marcedo Paiva",
+      "image": "https://picsum.photos/200",
+      "department": "Suporte",
+      "branch": "Farmácia Pedido Pago",
+      "role": "Analista",
+      "status": "active"
+    },
+    {
+      "agent_id": 13,
+      "name": "Flávio Rodrigues de Andrade",
+      "image": "https://picsum.photos/200",
+      "department": "Administrativo",
+      "branch": "Farmácia Pedido Pago",
+      "role": "Analista",
+      "status": "inactive"
+    },
+    {
+      "agent_id": 14,
+      "name": "Márcio Fernando Souza",
+      "image": "https://picsum.photos/200",
+      "department": "Administrativo",
+      "branch": "Farmácia Pedido Pago",
+      "role": "Analista",
+      "status": "active"
+    },
+    {
+      "agent_id": 15,
+      "name": "Pablo Marques Ribeiro",
+      "image": "https://picsum.photos/200",
+      "department": "Suporte",
+      "branch": "Farmácia Pedido Pago",
+      "role": "Analista",
+      "inactivestatus": "actvie"
+    },
+    {
+      "agent_id": 16,
+      "name": "Cleiton Barreto Ferreira",
+      "image": "https://picsum.photos/200",
+      "department": "Suporte",
+      "branch": "Farmácia Pedido Pago",
+      "role": "Diretor",
+      "status": "inactive"
     }
   ]
 }
