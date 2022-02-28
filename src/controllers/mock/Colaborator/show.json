@@ -13,7 +13,7 @@
       "number": "12345678901"
     },
     "birth_date": "2022-02-14T23:15:14.715Z",
-    "image": "https://picsum.photos/200",
+    "image": "https://picsum.photos/200?random=1",
     "department": "Administrativo",
     "branch": "Farmácia Pedido Pago",
     "role": "Diretor",
